@@ -60,6 +60,9 @@
                             <!--<excludes>
                               coverage.bada.OneLineDC
                             </excludes>-->
+                            <rules>
+
+                            </rules>
                         </configuration>
                     </execution>
                 </executions>
