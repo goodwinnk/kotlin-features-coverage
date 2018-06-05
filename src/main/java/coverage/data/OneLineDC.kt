@@ -9,4 +9,6 @@ fun testOneLine() {
     oneLineDC.a
     oneLineDC.b
     oneLineDC.c
+
+    oneLineDC.hashCode()
 }

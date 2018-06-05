@@ -15,6 +15,7 @@ class Tests {
     @Test
     fun ok() {
         coverage.propertyDelegation.test()
+        coverage.constructors.test()
         coverage.closure.test()
         coverage.defaultParameters.test()
         coverage.inlineLib.test()
